@@ -1,5 +1,0 @@
-pandas
-Faker
-streamlit
-plotly
-numpy
