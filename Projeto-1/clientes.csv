@@ -1,0 +1,201 @@
+﻿id_cliente,nome_cliente,email_cliente,telefone_cliente,endereco_cliente,cidade_cliente,estado_cliente,pais_cliente,regiao_cliente,data_cadastro
+1,Ana Júlia Rodrigues,fdias@example.com,+55 (011) 8716 8226,Recanto Peixoto,Jesus,MT,Brasil,Nordeste,2023-06-15
+2,Caleb Andrade,vcorreia@example.com,+55 11 3134 0544,Quadra de Moura,da Conceição,PI,Brasil,Sul,2022-06-17
+3,Arthur Miguel Macedo,joao-guilherme91@example.net,(011) 2878-9063,"Ladeira de Machado, 68",Sousa do Sul,MS,Brasil,Sul,2023-10-30
+4,Arthur Gabriel Fernandes,diogo87@example.org,(084) 6597-8055,"Esplanada de Cavalcanti, 47",Camargo do Amparo,MA,Brasil,Sudeste,2024-12-26
+5,Samuel Silveira,viniciusjesus@example.com,0900 391 7948,"Via de Correia, 25",Nascimento,RJ,Brasil,Centro-Oeste,2024-07-14
+6,Alana Mendes,glima@example.net,+55 51 6851 2628,"Residencial Evelyn Borges, 634",Pereira de Mendes,AC,Brasil,Norte,2022-05-31
+7,Henry Gabriel Barbosa,bernardomachado@example.net,(084) 4789-3507,"Feira Gonçalves, 289",Andrade do Oeste,AC,Brasil,Centro-Oeste,2023-06-16
+8,Larissa da Rocha,talbuquerque@example.net,+55 (041) 5353-6272,"Feira de Fernandes, 90",Sampaio Paulista,CE,Brasil,Nordeste,2022-10-19
+9,Melina Duarte,heloisaazevedo@example.org,(081) 7277 7498,"Núcleo Martins, 686",Souza,CE,Brasil,Centro-Oeste,2022-10-23
+10,Lorenzo Brito,marcos-vinicius01@example.net,+55 (061) 6441-6686,"Aeroporto de Pinto, 235",Costa de Silveira,TO,Brasil,Sul,2023-07-26
+11,Kaique Mendonça,cavalcantimilena@example.org,+55 81 7745-3791,"Vila de Fernandes, 625",Porto do Norte,AP,Brasil,Centro-Oeste,2023-10-21
+12,Lorenzo Mendes,teixeirapedro-henrique@example.net,11 0510 8606,"Estrada Theo Ferreira, 38",Albuquerque da Mata,PR,Brasil,Centro-Oeste,2023-09-24
+13,Luna Barbosa,acorreia@example.com,(051) 8706 0519,"Jardim Emanuelly Machado, 75",Abreu do Amparo,SC,Brasil,Sudeste,2022-11-29
+14,Dom Cunha,cavalcantiaurora@example.com,71 3364-6915,"Avenida Nina Leão, 74",Lima,RJ,Brasil,Norte,2023-04-09
+15,Maria Julia Azevedo,luiz-otavio83@example.com,(021) 2464 8025,"Rodovia de Gonçalves, 1",Rios,GO,Brasil,Sul,2023-03-22
+16,Heloisa Câmara,raragao@example.net,+55 84 1621 1319,"Campo de Sales, 58",Castro,PE,Brasil,Sudeste,2023-09-14
+17,Sra. Liz Carvalho,goncalvestheo@example.net,71 6022-7028,"Vereda Thiago Araújo, 42",da Rosa do Campo,PI,Brasil,Norte,2024-04-27
+18,Leandro Cirino,luiz-felipeda-cruz@example.com,(041) 2986-8199,"Esplanada de Cavalcanti, 16",Montenegro,RJ,Brasil,Sul,2022-12-12
+19,Dr. Fernando Rocha,leaopietro@example.net,0500-246-3683,"Rua de Lima, 84",Barros,MA,Brasil,Sudeste,2025-04-03
+20,Maria Eduarda Mendonça,alicia94@example.net,21 6125-3732,"Trevo de Jesus, 114",Moura,PI,Brasil,Sudeste,2024-01-01
+21,Vitor Hugo Cirino,fernandoda-cunha@example.org,(081) 3865-2813,"Residencial Carlos Eduardo Caldeira, 921",Silveira Alegre,MT,Brasil,Nordeste,2025-03-17
+22,Pedro Barbosa,gmoura@example.org,+55 71 2319 1067,"Estação Miguel Albuquerque, 62",da Mota,MG,Brasil,Norte,2022-07-01
+23,Davi Luiz Leão,lorenzoazevedo@example.org,(084) 2655-9164,"Jardim Zoe Fernandes, 5",Freitas do Sul,AM,Brasil,Centro-Oeste,2023-08-20
+24,Maysa Viana,dpereira@example.org,(084) 4031 8335,Rodovia de Azevedo,Pereira da Serra,RS,Brasil,Sudeste,2024-04-28
+25,Helena Souza,icosta@example.org,+55 (011) 5685 7034,"Estação de Moreira, 11",Rios,DF,Brasil,Sul,2024-10-30
+26,Alícia Pereira,limaluiza@example.com,(071) 8257-6036,Via de Gonçalves,Lopes,PE,Brasil,Sudeste,2024-01-30
+27,Sr. Gustavo Guerra,juannascimento@example.com,84 2421 7305,"Rua Andrade, 32",Cavalcante Paulista,RR,Brasil,Centro-Oeste,2023-02-10
+28,Maria Flor Guerra,diegosa@example.com,51 8365 2402,"Núcleo Rafael Machado, 70",Cirino Verde,MT,Brasil,Sul,2023-07-13
+29,Carlos Eduardo Pastor,pteixeira@example.net,+55 (041) 8698-5651,"Parque de Costela, 45",Farias de Campos,PB,Brasil,Sul,2024-10-30
+30,Juliana Mendonça,luarada-rosa@example.net,+55 (011) 6931-4682,"Favela da Costa, 312",da Luz da Praia,RS,Brasil,Norte,2024-06-19
+31,Dr. Kaique Rocha,yda-luz@example.net,+55 41 3124 7239,Campo da Paz,Machado de da Mota,CE,Brasil,Norte,2024-05-01
+32,Thomas Alves,qsouza@example.org,41 5774-1100,"Passarela de Moraes, 60",Nunes,DF,Brasil,Sul,2023-01-28
+33,Murilo Correia,hellenapastor@example.com,+55 41 6904-6148,"Rodovia Câmara, 88",Garcia,PE,Brasil,Sudeste,2022-08-17
+34,Heloísa Abreu,alexiapeixoto@example.net,+55 81 5802 1487,"Esplanada Thomas Pimenta, 10",Albuquerque de Dias,RS,Brasil,Centro-Oeste,2024-06-16
+35,Alexia Vargas,eloacavalcante@example.org,+55 81 4582 8589,"Área Asafe Costa, 189",Machado de Araújo,ES,Brasil,Norte,2024-02-28
+36,Hellena Costela,rcassiano@example.net,0500-910-9668,Travessa Calebe Moura,Sampaio,RS,Brasil,Sudeste,2022-07-21
+37,Bianca Nogueira,augustocosta@example.org,21 3724 0613,"Praia Henry Gabriel Aragão, 79",Dias,MS,Brasil,Sudeste,2023-04-03
+38,Pedro Henrique Cavalcanti,fcavalcanti@example.com,(071) 0555-1871,"Vale Bento Pacheco, 88",Souza,GO,Brasil,Sudeste,2023-08-10
+39,Maria Vitória Castro,luiz-miguel74@example.org,+55 31 7779 1918,"Chácara de da Mata, 56",Rodrigues,PB,Brasil,Centro-Oeste,2023-03-31
+40,Stephany Cassiano,ana-beatriz39@example.net,61 6053-9894,"Vila Cirino, 67",Araújo,MG,Brasil,Centro-Oeste,2024-01-11
+41,Sra. Kamilly Macedo,silveiramirella@example.org,+55 (031) 6099-7202,"Conjunto de Pereira, 79",Ramos,AL,Brasil,Norte,2024-03-02
+42,Otávio Vieira,vramos@example.com,84 5400 9751,"Praça Daniel Moreira, 78",da Luz,CE,Brasil,Sul,2024-05-20
+43,Mariana Azevedo,maria-ceciliagoncalves@example.net,(061) 4207 9444,"Viela Pacheco, 36",Caldeira de Minas,RJ,Brasil,Nordeste,2022-07-20
+44,Sr. Mathias Nogueira,manuelanovais@example.com,(061) 9073 8924,"Recanto Léo Teixeira, 54",Ramos dos Dourados,AL,Brasil,Sudeste,2024-09-30
+45,Alexia Caldeira,taraujo@example.com,+55 (041) 8435-3847,"Residencial Cavalcanti, 19",Câmara de Campos,AP,Brasil,Nordeste,2025-03-18
+46,Ian Ferreira,fonsecaisabelly@example.org,(041) 3150-6509,"Lago Martins, 37",Almeida,PE,Brasil,Sudeste,2024-04-21
+47,Allana Fogaça,ateixeira@example.net,+55 51 2886 1018,"Campo de Nogueira, 1",Cassiano da Praia,CE,Brasil,Centro-Oeste,2023-01-18
+48,Liz Fonseca,cda-rosa@example.net,+55 61 5804 2634,Sítio Sampaio,das Neves,AP,Brasil,Nordeste,2024-10-12
+49,Srta. Ana Vitória Casa Grande,fabreu@example.org,+55 31 4926 0936,"Pátio Isabel Machado, 458",Moura,BA,Brasil,Norte,2023-05-30
+50,Mathias Farias,maria-luizaribeiro@example.org,+55 11 0517-5535,"Feira Ayla Pastor, 56",Carvalho das Flores,MS,Brasil,Nordeste,2024-07-17
+51,Carlos Eduardo Pereira,marianada-costa@example.com,+55 (071) 9533-0802,"Aeroporto Brito, 245",Moreira da Praia,RS,Brasil,Centro-Oeste,2025-03-14
+52,Srta. Hellena da Cruz,pereiramatteo@example.org,0900 155 5355,"Viaduto Pastor, 84",Albuquerque,SE,Brasil,Sudeste,2023-04-12
+53,Sra. Maria Moreira,andradeana-luiza@example.net,+55 (051) 9513 4092,"Trevo Santos, 261",Correia de da Mata,SP,Brasil,Centro-Oeste,2024-07-10
+54,Sabrina Gonçalves,dviana@example.net,(041) 0087-6437,"Setor Nascimento, 6",Costa da Prata,TO,Brasil,Nordeste,2023-08-08
+55,Sra. Clarice Cassiano,pcarvalho@example.org,0800-338-3341,"Morro Melo, 60",Sales,RS,Brasil,Sudeste,2022-08-17
+56,Valentina Vargas,joanagomes@example.net,+55 (011) 7906-5873,"Viela Maria Cecília Freitas, 852",Vieira,DF,Brasil,Centro-Oeste,2024-02-24
+57,Miguel Sousa,maria-laura00@example.net,81 1509-3620,"Setor de Marques, 34",Leão do Sul,PA,Brasil,Sudeste,2024-10-21
+58,Juan Macedo,yagocirino@example.com,+55 (061) 8275-5793,"Colônia Porto, 105",da Luz do Galho,MS,Brasil,Sudeste,2022-12-17
+59,José Pedro Vasconcelos,novaismaria-eduarda@example.com,0900 754 6246,Feira Olivia Correia,Carvalho,AL,Brasil,Norte,2022-06-21
+60,Luiz Otávio Farias,sousakevin@example.com,0300-036-9253,"Morro Letícia Costa, 215",Garcia do Amparo,AP,Brasil,Nordeste,2022-06-10
+61,Alexia Caldeira,fogacaelisa@example.com,+55 (031) 3012 9314,"Alameda de Moraes, 801",Nogueira do Campo,CE,Brasil,Sul,2024-09-23
+62,Pedro Lucas Barros,yasmingarcia@example.com,0500 843 3069,"Condomínio Moura, 55",Ribeiro,PI,Brasil,Sudeste,2025-05-19
+63,Ana Liz Araújo,britomaria-helena@example.org,+55 81 6868-4951,"Quadra de Correia, 584",Fonseca do Sul,RJ,Brasil,Norte,2023-12-31
+64,Ana Cecília Costa,iferreira@example.org,+55 41 8179 3510,Estrada Leandro Montenegro,Novais das Pedras,DF,Brasil,Sudeste,2024-04-01
+65,Maria Luísa Mendonça,rodriguesjoao-gabriel@example.com,+55 (011) 4312-3272,"Loteamento Valentim Siqueira, 43",Silveira,RO,Brasil,Norte,2023-11-04
+66,Sr. Apollo Lopes,rezendecatarina@example.org,+55 (071) 4605 4973,"Aeroporto de Pastor, 79",Casa Grande de Melo,SP,Brasil,Sul,2022-11-15
+67,Amanda Peixoto,emanuel62@example.net,+55 11 7801 6584,"Rodovia da Mota, 83",Vasconcelos das Pedras,PE,Brasil,Nordeste,2023-04-03
+68,Isabel Barros,vargaspietro@example.net,+55 (081) 5166-2965,"Núcleo Alana da Mota, 230",Moraes do Campo,SP,Brasil,Sudeste,2024-09-21
+69,Srta. Maya Câmara,gmoreira@example.net,+55 (081) 9010 2492,"Estrada Silva, 78",Pereira,RJ,Brasil,Centro-Oeste,2023-12-18
+70,Agatha Macedo,bernardogoncalves@example.net,+55 (051) 6793-7775,"Lago Pinto, 75",Cunha,RR,Brasil,Nordeste,2023-09-02
+71,Miguel Sales,zcaldeira@example.com,(051) 8797 2774,"Alameda Théo Marques, 18",Mendes,MA,Brasil,Sul,2025-02-18
+72,Antony Montenegro,bryan12@example.net,0800-579-5538,"Lagoa Melo, 901",Fernandes da Prata,CE,Brasil,Centro-Oeste,2023-03-03
+73,João Lucas Marques,martinsmaria-liz@example.org,51 2174 8151,"Chácara Machado, 32",da Luz,MS,Brasil,Nordeste,2022-08-06
+74,Antony Rios,ottomendonca@example.com,81 3986 1968,"Travessa de Costa, 72",das Neves do Norte,ES,Brasil,Sul,2022-09-04
+75,Ravi Lucca da Paz,almeidaalice@example.org,0800-556-7500,"Distrito de da Luz, 37",da Luz,RS,Brasil,Centro-Oeste,2025-01-11
+76,Catarina Fogaça,ninada-cruz@example.com,(051) 1027 7341,Área Isadora Nascimento,Borges,PA,Brasil,Sudeste,2024-02-18
+77,Sra. Marina Martins,brayangarcia@example.net,(061) 2665-0038,"Alameda Cardoso, 98",Costa,RJ,Brasil,Sudeste,2024-01-25
+78,Danilo Oliveira,paraujo@example.org,+55 (071) 1957-6493,"Morro de Vieira, 54",Freitas,CE,Brasil,Centro-Oeste,2024-05-15
+79,Srta. Júlia Nunes,laviniajesus@example.com,84 6761 0470,Feira Castro,Marques,RN,Brasil,Sudeste,2022-12-02
+80,Lívia Rocha,umontenegro@example.org,(071) 8252 2202,"Praia Fonseca, 4",Almeida,PR,Brasil,Norte,2025-01-12
+81,Camila Oliveira,qpastor@example.net,+55 21 4194 5479,"Travessa Pietro Costa, 12",Guerra do Galho,MS,Brasil,Centro-Oeste,2024-10-07
+82,Antony Gonçalves,ybarbosa@example.org,31 1294 1291,"Aeroporto de Cavalcanti, 788",Nascimento Verde,AC,Brasil,Centro-Oeste,2024-09-05
+83,Luiz Otávio Moreira,sajoao-lucas@example.com,(071) 5806-8963,"Colônia de da Cunha, 7",Gonçalves da Serra,GO,Brasil,Sudeste,2023-01-17
+84,Maria Flor Cunha,sbarbosa@example.org,+55 (071) 9640 8835,"Lagoa Luiz Henrique da Costa, 8",Camargo,PA,Brasil,Norte,2024-05-05
+85,Ayla Almeida,aparecidamaria-isis@example.org,+55 81 5670 3009,"Colônia de Nogueira, 7",Borges,PE,Brasil,Norte,2024-05-21
+86,Alana Mendonça,barbosastella@example.net,+55 21 2330 1560,Travessa Silveira,Melo,DF,Brasil,Norte,2022-07-27
+87,Noah Fonseca,bryanoliveira@example.com,(021) 6517 5603,"Avenida Albuquerque, 6",Pimenta da Mata,SE,Brasil,Norte,2022-10-22
+88,Dra. Isis Sampaio,vicente65@example.org,+55 (081) 2389-4128,Largo Pereira,Monteiro,PB,Brasil,Sul,2022-11-10
+89,Cecilia Carvalho,zoefreitas@example.net,(061) 3591-2013,"Feira de Santos, 81",Aragão,AP,Brasil,Norte,2023-11-27
+90,Dr. João Novaes,miguelrodrigues@example.com,+55 21 4717-9458,"Viaduto Felipe Casa Grande, 66",das Neves,DF,Brasil,Nordeste,2024-07-20
+91,Yasmin Oliveira,elisa90@example.com,(051) 5980-5930,"Travessa Campos, 50",da Mata da Praia,TO,Brasil,Sudeste,2025-04-01
+92,Marcelo Aragão,larissabrito@example.com,+55 (084) 1700 7953,"Avenida Melo, 1",Melo,SP,Brasil,Sul,2023-01-04
+93,Bernardo Ferreira,araujomaria-fernanda@example.org,+55 (011) 5447-0341,"Trevo João Oliveira, 458",Vargas,RO,Brasil,Nordeste,2024-02-20
+94,Léo Camargo,caroline57@example.org,+55 (051) 3008-2395,"Vereda Azevedo, 9",Nogueira,CE,Brasil,Centro-Oeste,2023-09-26
+95,Davi Miguel Cardoso,fernanda87@example.com,11 3753 1133,"Recanto Diego Aparecida, 28",da Rocha,PB,Brasil,Centro-Oeste,2024-06-12
+96,Sr. Asafe Viana,claricemendonca@example.net,+55 (071) 6344-5269,"Passarela de Cirino, 62",Costela,DF,Brasil,Norte,2023-01-11
+97,Sophie Duarte,bda-cruz@example.net,(051) 2477-9156,"Largo Theodoro Sales, 931",Pires,MS,Brasil,Sudeste,2025-02-12
+98,Clara Silva,nsiqueira@example.org,+55 (051) 7029-5880,"Campo Barros, 16",Ferreira,MT,Brasil,Sudeste,2024-11-27
+99,Maria Sophia Souza,stephanycasa-grande@example.com,+55 (041) 1116 1649,"Ladeira de Costa, 9",Mendonça do Sul,RJ,Brasil,Centro-Oeste,2025-04-05
+100,Davi Lucca Guerra,moreiraisabelly@example.com,(051) 2876-4700,Área Yuri Lima,Alves de Fogaça,CE,Brasil,Sudeste,2024-10-18
+101,Brenda Silva,gabrielmachado@example.net,(021) 1519 9585,"Recanto de Barbosa, 44",Macedo,PR,Brasil,Centro-Oeste,2024-07-25
+102,Valentina Silveira,valentinanascimento@example.org,+55 41 1495-1644,"Estação Freitas, 379",Cavalcanti,PE,Brasil,Sul,2024-05-18
+103,Srta. Luara da Cunha,pedro-miguelfonseca@example.com,+55 (081) 8221 6822,"Campo Emanuella da Mata, 24",Albuquerque,CE,Brasil,Sul,2022-08-17
+104,Elisa Rocha,lorenzocosta@example.com,(051) 0003-6786,"Passarela Davi Miguel Ferreira, 18",Porto,SC,Brasil,Sudeste,2023-05-28
+105,Nicolas da Luz,dda-rosa@example.com,+55 (061) 2133 0639,"Loteamento Giovanna Novais, 49",Castro,BA,Brasil,Nordeste,2023-08-29
+106,Ravy da Mota,cpinto@example.org,21 0980-5656,"Quadra Anna Liz Gonçalves, 8",Pacheco de Goiás,CE,Brasil,Sudeste,2025-04-05
+107,Dra. Esther da Cruz,felipe59@example.com,(011) 0328 4597,"Feira de Monteiro, 16",Martins,RO,Brasil,Centro-Oeste,2022-12-27
+108,Alana Melo,marinaazevedo@example.net,+55 (081) 1220-8150,"Loteamento Murilo Jesus, 4",Melo,AP,Brasil,Norte,2024-07-08
+109,Dra. Melissa Novaes,luiz-otavio07@example.com,+55 71 5495 4656,Rodovia Cardoso,Novais de Guerra,SP,Brasil,Sudeste,2024-05-12
+110,Igor Carvalho,matteosouza@example.net,(061) 7378-3599,"Lagoa Nogueira, 49",Moreira,RR,Brasil,Nordeste,2024-03-01
+111,Sophie Gomes,bellacavalcante@example.org,+55 (084) 9607 7532,"Núcleo Vinicius Vieira, 8",Andrade,AC,Brasil,Nordeste,2022-12-13
+112,Rebeca Pires,wribeiro@example.com,(084) 2894-1049,"Área de Andrade, 123",Farias do Amparo,PB,Brasil,Centro-Oeste,2024-04-15
+113,Dr. Enzo Gabriel Albuquerque,dante45@example.org,+55 (011) 1708 1403,"Estação Alexandre da Rocha, 5",da Paz Verde,RN,Brasil,Nordeste,2022-12-25
+114,Dr. Léo Barbosa,pastorjade@example.net,+55 (011) 4970 5083,"Praia de Casa Grande, 69",Costa da Prata,PI,Brasil,Norte,2024-02-10
+115,Maitê da Rocha,pedro-miguelfonseca@example.net,(021) 2029 5685,"Via de Aragão, 19",Sampaio de Minas,RJ,Brasil,Nordeste,2025-04-28
+116,Sr. Ian Aparecida,raquel24@example.com,+55 41 6759-3211,"Passarela Nunes, 483",Araújo,MS,Brasil,Centro-Oeste,2024-04-08
+117,Sra. Ana Liz Costa,allanarocha@example.net,+55 11 2846-5528,"Aeroporto Lara da Cunha, 58",Lopes,RR,Brasil,Sudeste,2023-12-07
+118,Theo Almeida,hcasa-grande@example.com,41 7242 3111,"Favela Jesus, 26",Gomes do Amparo,GO,Brasil,Sul,2023-11-04
+119,Maria Vitória Cunha,ydas-neves@example.com,+55 21 7207 0160,"Lagoa Danilo Duarte, 17",Rodrigues da Praia,RO,Brasil,Norte,2022-12-19
+120,Dra. Lunna da Mata,camilacostela@example.net,+55 (021) 7292-7778,"Sítio Moura, 4",da Rosa,PB,Brasil,Sul,2023-07-15
+121,Vitor Albuquerque,olivia80@example.net,+55 41 3458-2804,"Via Ayla Aragão, 28",Jesus Grande,PE,Brasil,Centro-Oeste,2022-07-18
+122,Antony Barros,sofia78@example.com,+55 (081) 9595-6536,Lagoa de Marques,Viana,MS,Brasil,Sul,2023-01-25
+123,Bryan Mendes,eduarda08@example.net,(071) 6462-9530,"Passarela Francisco Lima, 8",Andrade da Mata,ES,Brasil,Centro-Oeste,2023-01-10
+124,Liz Vieira,camaraisis@example.com,+55 (081) 5504 8969,"Quadra Caldeira, 40",Moraes,PR,Brasil,Sudeste,2025-04-18
+125,Srta. Aurora Fonseca,almeidacaio@example.com,31 8534 7659,Estrada de da Mota,da Rocha do Campo,AM,Brasil,Centro-Oeste,2022-12-31
+126,Bella Moreira,pereiranina@example.com,51 6407 5161,"Viela de Fernandes, 32",Pinto,CE,Brasil,Norte,2023-03-13
+127,Alexia Fonseca,portovalentina@example.org,71 6653-3218,"Esplanada Benjamin Rodrigues, 3",Costa da Prata,RR,Brasil,Sudeste,2024-01-15
+128,Zoe Garcia,qcamargo@example.com,+55 (021) 3537 9272,"Pátio de Garcia, 72",das Neves do Amparo,PI,Brasil,Nordeste,2023-11-28
+129,Yuri Rodrigues,sborges@example.com,+55 (051) 5538 6014,"Chácara Luara Vasconcelos, 75",da Cunha,RJ,Brasil,Sudeste,2022-08-03
+130,João Pedro Fernandes,diasmaria-vitoria@example.org,(084) 4180 9695,"Esplanada de da Mota, 834",Novaes,PR,Brasil,Norte,2024-01-05
+131,Julia Pacheco,saluiz-miguel@example.com,(061) 0874 5931,"Pátio João Pedro Costa, 59",Farias,PA,Brasil,Nordeste,2022-12-01
+132,Agatha Pereira,joao-felipealmeida@example.com,84 9828-5489,"Travessa de Dias, 77",Araújo do Norte,TO,Brasil,Norte,2023-01-18
+133,Benicio Cunha,ana-juliasiqueira@example.net,21 3448-8632,"Ladeira de Vargas, 57",Lima dos Dourados,SP,Brasil,Sul,2024-03-23
+134,Srta. Sophia Viana,heloisa03@example.com,(011) 8620 1387,"Quadra de Cavalcante, 866",da Conceição,AM,Brasil,Sul,2024-05-25
+135,Allana da Cruz,matheus96@example.com,+55 (051) 8106 9019,Conjunto Luan Cunha,da Mata,PA,Brasil,Sudeste,2025-03-12
+136,Guilherme Siqueira,pguerra@example.net,+55 84 4914-6905,"Área Elisa Castro, 8",Barbosa de Cunha,RR,Brasil,Centro-Oeste,2023-03-23
+137,Vinícius Almeida,maria-sophiada-conceicao@example.net,11 4857-2693,Pátio Dias,Peixoto dos Dourados,BA,Brasil,Norte,2022-12-15
+138,Melina Mendes,ribeirorafael@example.net,+55 (084) 4694 8171,"Rua Arthur Gabriel Correia, 7",Cavalcante da Serra,RR,Brasil,Norte,2022-12-18
+139,Catarina Pastor,fariasnathan@example.com,+55 (084) 3482-5827,"Área Moreira, 915",Aparecida,SP,Brasil,Norte,2023-06-09
+140,Benicio Carvalho,lorenzo88@example.com,(041) 6932 4746,"Viaduto Martins, 10",Carvalho,PI,Brasil,Nordeste,2022-07-18
+141,Enrico Sá,beniciogomes@example.com,+55 21 2181-5479,"Feira de da Paz, 19",Nogueira,GO,Brasil,Norte,2024-03-01
+142,Nicolas Martins,hlopes@example.net,51 5205 3279,"Via de Borges, 120",Araújo,AC,Brasil,Sul,2023-10-28
+143,Nathan Siqueira,giovannacasa-grande@example.com,11 4530 1030,"Viaduto André da Mata, 49",da Cruz,PA,Brasil,Nordeste,2024-05-12
+144,Enzo Silva,costelaliz@example.org,(051) 4731-2522,"Vereda João Vitor Casa Grande, 50",Cavalcanti de Nascimento,MG,Brasil,Centro-Oeste,2023-03-28
+145,Sara Gomes,fernandesvitor-hugo@example.com,(021) 1771-9717,"Viaduto Rocha, 73",Rodrigues da Mata,AL,Brasil,Centro-Oeste,2023-08-24
+146,Anthony Lima,jose45@example.net,71 5017 1514,Loteamento de Cassiano,Moraes,TO,Brasil,Sul,2024-11-12
+147,Alice Aragão,manuela24@example.com,+55 11 6090-1326,"Vale de da Costa, 82",Freitas de Minas,RN,Brasil,Norte,2024-03-12
+148,Mateus da Cruz,livia04@example.com,+55 (021) 6851-4040,"Praça da Conceição, 889",Moraes do Oeste,TO,Brasil,Sudeste,2024-10-01
+149,Olivia Alves,saana-clara@example.com,41 9099 1207,"Colônia Sá, 30",Cardoso da Mata,RJ,Brasil,Centro-Oeste,2025-04-05
+150,Srta. Bárbara Oliveira,casa-grandemaria-liz@example.org,+55 (031) 0391 9948,"Fazenda Porto, 2",Sá de Silveira,PE,Brasil,Centro-Oeste,2025-01-07
+151,Luan Pires,leaomaria-fernanda@example.org,+55 (051) 7669-9312,Vila Sales,Ramos do Oeste,RJ,Brasil,Sul,2023-08-05
+152,Maria Eduarda Macedo,wcarvalho@example.net,0500-089-1961,"Quadra Vasconcelos, 743",Aragão,DF,Brasil,Nordeste,2024-11-28
+153,Daniela Cirino,davi-luiz80@example.org,+55 81 0667 5273,"Setor de Sá, 50",Costa do Galho,ES,Brasil,Centro-Oeste,2023-07-05
+154,Raul Almeida,maria-luisada-cunha@example.org,71 3226-1461,"Trecho da Mata, 2",Santos,RO,Brasil,Nordeste,2025-05-23
+155,Lucas Cardoso,rodrigoduarte@example.org,51 9581 0858,"Alameda Ana Santos, 38",Andrade,MG,Brasil,Sul,2023-01-21
+156,Samuel Costela,camila60@example.org,+55 (084) 7693 6054,"Núcleo de Nogueira, 30",Lopes Paulista,AL,Brasil,Sul,2023-12-11
+157,Bernardo Cassiano,cirinopedro-lucas@example.com,81 6622 6888,"Conjunto de Viana, 99",Cavalcante de Goiás,CE,Brasil,Norte,2023-05-02
+158,Francisco Pinto,da-cunhabryan@example.net,(071) 3360-0327,"Viela de Aragão, 19",Azevedo Alegre,MG,Brasil,Sudeste,2023-11-30
+159,Emanuella Borges,jmachado@example.com,+55 61 1539-5889,"Residencial de da Luz, 5",Caldeira do Sul,MA,Brasil,Centro-Oeste,2023-07-29
+160,Maria Alice Nascimento,maria-flornascimento@example.com,0500-832-5517,"Área de Duarte, 29",Dias Paulista,RS,Brasil,Centro-Oeste,2024-07-07
+161,Sr. Rhavi Cassiano,maria-isissa@example.net,81 8692-0045,Núcleo Rocha,Fogaça,RJ,Brasil,Centro-Oeste,2025-04-21
+162,Giovanna Nunes,qviana@example.net,+55 (011) 7559 3378,"Morro de Mendonça, 92",Machado do Sul,TO,Brasil,Sudeste,2022-06-11
+163,Valentim Duarte,costelamaya@example.net,(031) 8242-0312,"Esplanada Rhavi Mendonça, 3",Carvalho de Goiás,DF,Brasil,Sul,2024-02-17
+164,Ana Rocha,alexia67@example.net,+55 (021) 1156-3444,"Largo Luan Cavalcanti, 10",da Costa,MG,Brasil,Nordeste,2024-07-29
+165,Cauã Macedo,maria-sophiaalbuquerque@example.net,(031) 0312 6764,"Praia de Alves, 73",Albuquerque Alegre,RN,Brasil,Centro-Oeste,2023-11-10
+166,Letícia Cavalcanti,amandajesus@example.com,(071) 9174-4195,"Trecho de Rodrigues, 91",Pastor Grande,TO,Brasil,Centro-Oeste,2023-04-10
+167,Mariah Sousa,ryan76@example.org,31 6198-1358,"Avenida de Silveira, 61",Fonseca,RR,Brasil,Sul,2023-06-08
+168,Caio Lopes,jvasconcelos@example.org,+55 (084) 2969-0889,"Setor Rodrigues, 35",Lopes Grande,RS,Brasil,Centro-Oeste,2023-07-28
+169,Marcos Vinicius Pacheco,anacasa-grande@example.com,(021) 2076-0290,"Vila Machado, 827",Novaes,PR,Brasil,Sudeste,2024-03-09
+170,Dr. Isaac Campos,costaisadora@example.com,(021) 2736 5649,"Vila de Caldeira, 87",Fernandes do Norte,GO,Brasil,Norte,2025-04-09
+171,Rafael Almeida,bruna75@example.net,+55 (084) 0535-5923,"Praia da Mota, 62",Aragão do Galho,DF,Brasil,Sudeste,2024-12-12
+172,Melissa Pinto,mathiasribeiro@example.com,+55 (051) 9645 9609,"Setor de Dias, 410",Macedo do Galho,RN,Brasil,Centro-Oeste,2025-04-19
+173,Sr. Leandro Viana,sabreu@example.com,31 3638 0812,"Rua Maria Luiza Azevedo, 664",Moraes,CE,Brasil,Sul,2022-06-23
+174,Srta. Maria Júlia Cassiano,heloisamoura@example.org,+55 81 4747 2406,"Viaduto Silveira, 43",Melo,SP,Brasil,Sudeste,2023-04-27
+175,José Pedro Aparecida,enrico33@example.org,+55 (081) 3713-1597,"Setor de Andrade, 43",Abreu,MT,Brasil,Nordeste,2023-12-23
+176,Francisco Nunes,xpinto@example.net,(084) 3652 4000,"Conjunto Melissa Almeida, 585",Oliveira,AC,Brasil,Centro-Oeste,2022-09-01
+177,Vitor Santos,allana19@example.com,+55 (021) 7868 1808,"Ladeira de Casa Grande, 71",da Rosa das Flores,MG,Brasil,Nordeste,2023-09-06
+178,Srta. Bella Martins,lcarvalho@example.net,0500 320 8804,"Favela de Sousa, 326",Costa,PA,Brasil,Centro-Oeste,2025-01-05
+179,Ana Júlia Alves,joao-pedrocunha@example.com,+55 71 1259 5610,"Residencial Leandro Aparecida, 29",das Neves do Norte,AC,Brasil,Norte,2024-04-23
+180,Evelyn Nunes,fcamara@example.com,+55 (031) 1615-5906,"Condomínio Sousa, 14",Jesus de Andrade,RN,Brasil,Sul,2024-01-21
+181,Sarah Novaes,fbrito@example.net,+55 (071) 4294-3461,Favela de Macedo,da Conceição de Azevedo,RR,Brasil,Sudeste,2022-07-20
+182,Heitor Campos,bryanferreira@example.com,31 7209-1934,"Vale de Pinto, 379",Alves,DF,Brasil,Nordeste,2024-03-31
+183,Theodoro Abreu,isabellyda-cunha@example.org,+55 (051) 2203-9366,"Parque Gonçalves, 4",Pimenta Paulista,MS,Brasil,Sudeste,2022-12-26
+184,Pedro Guerra,hfernandes@example.net,84 6517 6928,"Colônia Liz Leão, 30",Rios do Norte,SE,Brasil,Centro-Oeste,2024-03-14
+185,Maria Vitória da Rosa,rafaela92@example.org,(041) 3160-9429,"Rua de Mendes, 98",Rios das Pedras,RS,Brasil,Nordeste,2023-08-13
+186,Mariana das Neves,oliveirajose-pedro@example.com,0800-687-6440,"Lago Montenegro, 48",Casa Grande de da Paz,AP,Brasil,Centro-Oeste,2024-04-03
+187,Valentina Santos,eduarda80@example.net,+55 11 8573-2948,"Distrito Siqueira, 563",Albuquerque do Galho,AM,Brasil,Norte,2022-12-25
+188,Lívia Garcia,henrique81@example.com,0900 869 6683,"Esplanada da Conceição, 791",da Conceição,RS,Brasil,Sul,2022-12-05
+189,Diego da Cunha,milena17@example.net,51 8021 2558,"Sítio Breno Cirino, 41",Pires das Pedras,RS,Brasil,Centro-Oeste,2023-03-27
+190,Manuella Santos,xcastro@example.org,0800-043-2824,"Favela Maria Flor Caldeira, 11",Pereira da Prata,RJ,Brasil,Sul,2024-01-24
+191,Nina Sousa,garciamaya@example.com,(051) 9597 5764,Passarela da Mata,Novais,CE,Brasil,Sudeste,2024-02-11
+192,Carolina Costela,rhaviduarte@example.org,+55 51 0355 3130,"Praça de Castro, 52",Lima,ES,Brasil,Nordeste,2023-04-06
+193,Ana Beatriz da Rocha,andradecaleb@example.org,61 5625 0722,"Sítio João Gabriel Pacheco, 74",Nunes de Aragão,TO,Brasil,Nordeste,2023-10-20
+194,Valentim Nunes,yanmoraes@example.org,61 5273-9456,"Via Gabriela Moura, 90",Sousa,TO,Brasil,Nordeste,2024-06-11
+195,Ravi Lucca Campos,samuelcastro@example.com,+55 (081) 6772-8759,"Lagoa Ana Liz Garcia, 556",Aragão,SC,Brasil,Sul,2022-08-14
+196,Sr. Davi Lucca Moreira,daniellima@example.net,81 2334-6862,"Praça Murilo da Mata, 437",Cirino,PI,Brasil,Norte,2024-12-31
+197,Ester Abreu,isis96@example.org,+55 51 3411 4796,"Praça de Pereira, 87",Carvalho,RO,Brasil,Sudeste,2022-06-03
+198,Josué Rezende,caua94@example.com,81 8363 3297,"Vale de Pacheco, 526",Pires Paulista,DF,Brasil,Nordeste,2025-04-29
+199,Noah Freitas,ana88@example.net,+55 81 8240-1110,"Feira de Cunha, 83",da Costa,MS,Brasil,Sudeste,2024-05-29
+200,Alexandre Andrade,ooliveira@example.net,(041) 7241 1567,"Vereda de Nascimento, 84",Alves de Sá,MG,Brasil,Sul,2022-09-04
